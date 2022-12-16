@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TouchLife.Adminstration.API.props" />
+</Project>

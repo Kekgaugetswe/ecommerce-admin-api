@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchLife.Adminstration.API", "TouchLife.Adminstration.API\TouchLife.Adminstration.API.csproj", "{B06D317D-CF35-4537-8E64-B0FB3AD17B43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchLife.Adminstration.Domain", "TouchLife.Adminstration.Domain\TouchLife.Adminstration.Domain.csproj", "{AEE9DB5C-86A5-4D03-8DB3-9888DE7ED8C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchLife.Administration.Infrastructure", "TouchLife.Administration.Infrastructure\TouchLife.Administration.Infrastructure.csproj", "{F31E15A3-8D33-4CBD-9EC0-427F3CABAD1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B06D317D-CF35-4537-8E64-B0FB3AD17B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06D317D-CF35-4537-8E64-B0FB3AD17B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06D317D-CF35-4537-8E64-B0FB3AD17B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06D317D-CF35-4537-8E64-B0FB3AD17B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE9DB5C-86A5-4D03-8DB3-9888DE7ED8C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE9DB5C-86A5-4D03-8DB3-9888DE7ED8C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE9DB5C-86A5-4D03-8DB3-9888DE7ED8C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE9DB5C-86A5-4D03-8DB3-9888DE7ED8C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31E15A3-8D33-4CBD-9EC0-427F3CABAD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31E15A3-8D33-4CBD-9EC0-427F3CABAD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31E15A3-8D33-4CBD-9EC0-427F3CABAD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31E15A3-8D33-4CBD-9EC0-427F3CABAD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB589B62-535E-45BB-B907-6B3F93842D78}
+	EndGlobalSection
+EndGlobal
