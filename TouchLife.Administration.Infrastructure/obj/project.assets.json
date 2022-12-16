@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kekgaugetswe\\source\\repos\\TouchLife.Adminstration.API\\TouchLife.Administration.Infrastructure\\TouchLife.Administration.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Kekgaugetswe\\source\\repos\\ecommerce-admin-api\\TouchLife.Administration.Infrastructure\\TouchLife.Administration.Infrastructure.csproj",
       "projectName": "TouchLife.Administration.Infrastructure",
-      "projectPath": "C:\\Users\\Kekgaugetswe\\source\\repos\\TouchLife.Adminstration.API\\TouchLife.Administration.Infrastructure\\TouchLife.Administration.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Kekgaugetswe\\source\\repos\\ecommerce-admin-api\\TouchLife.Administration.Infrastructure\\TouchLife.Administration.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Kekgaugetswe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kekgaugetswe\\source\\repos\\TouchLife.Adminstration.API\\TouchLife.Administration.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Kekgaugetswe\\source\\repos\\ecommerce-admin-api\\TouchLife.Administration.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
